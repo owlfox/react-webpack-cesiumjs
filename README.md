@@ -6,6 +6,8 @@ A simple react webpack example for cesium with css module
 npm i
 npm start
 ```
+![result](https://user-images.githubusercontent.com/3121302/42424852-3265317e-8346-11e8-96b7-ab956d247b40.png)
+
 
 # Reference
 https://cesiumjs.org/tutorials/cesium-and-webpack/
