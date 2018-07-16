@@ -3,6 +3,8 @@ A simple react webpack example for cesium with css module
 
 # How to run it
 ```
+# if you're on ubuntu
+# ln -s /usr/bin/nodejs /usr/bin/node 
 npm i
 npm start
 ```
