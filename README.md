@@ -1,6 +1,10 @@
 # react-webpack-cesiumjs
 A simple react webpack example for cesium with css module
 
+# Dependencies
+
+Node > 10.x
+
 # How to run it
 ```
 # if you're on ubuntu
